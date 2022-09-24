@@ -1,6 +1,6 @@
 # Project Proposal
 
-**Website Title:** Famous Filipino Food <br /> <br />
+**Website Title:** Famous Filipino Foods <br /> <br />
 
 **Comprehensive Description:**  In this website, different Filipino food such as chicken adobo and pork giniling will be described, as well as the rich background and history of said dishes. The recipes and various ingredients used to make these will also be included. Viewing this website will allow the user to gain new knowledge and appreciation for these dishes.  <br /> <br />
 
