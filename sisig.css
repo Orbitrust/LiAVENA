@@ -1,0 +1,49 @@
+html, body {
+	height: 100%;
+	width: 100%;
+}
+
+#icon {
+	border: 5px inset #4c2715;
+}
+
+#image {
+	border: 10px double #4c2715;
+}
+
+body {
+	font-family: Garamond, serif;
+	background-color: papayawhip;
+}
+
+#header, #footer {
+	border: 5px groove sienna;
+	background-color: burlywood;
+	font-size: 20px;
+}
+
+#title {
+  	font-family: Georgia, serif;
+	font-weight: bolder;
+	font-size: 50px;
+}
+
+#sectiontitle {
+	font-weight: bold;
+	font-size: 35px;
+}
+
+#pagetitle {
+	font-weight: bolder;
+	font-size: 35px;
+}
+
+#link {
+	font-size: 25px;
+	font-family: Georgia, sans-serif;
+	text-decoration: none;
+}
+
+#description {
+	margin: 20px 200px 20px 200px;
+}
