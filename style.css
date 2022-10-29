@@ -1,6 +1,7 @@
 html, body {
 	height: 100%;
 	width: 100%;
+	font-size: 25px;
 }
 
 #icon {
@@ -38,14 +39,17 @@ body {
 	background-color: #ffd9a8;
 	font-size: 20px;
 	opacity: 0.80;
+	vertical-align: baseline;
 }
 
 #title {
 	font-family: Georgia, serif;
 	font-weight: bolder;
 	font-size: 50px;
-	vertical-align: center;
+	font-style: italic;
+	color: #3a291f;
 }
+
 #navigation {
 	color: #4d2814;
 	border: 5px solid #4d2814;
@@ -63,12 +67,14 @@ body {
 
 #sectiontitle {
 	font-weight: bold;
-	font-size: 40px;
+	font-size: 50px;
+	color: #3a291f;
 }
 
 #pagetitle {
 	font-weight: bolder;
-	font-size: 40px;
+	font-size: 50px;
+	color: #3a291f;
 }
 
 #link {
@@ -80,6 +86,11 @@ body {
 #description {
 	margin: 20px 200px 20px 200px;
 	font-weight: bold;
+}
+
+#procedure {
+	font-weight: bold; 
+	font-size: 25px;
 }
 
 #contactinfo {
